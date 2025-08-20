@@ -5,7 +5,7 @@ Atualmente, estou aprendendo **C# do zero**, então não tenho conquistas ainda,
 
 ---
 
-## 🏆 GitHub Stats + Samurai
+## 🏆
 
 <div align="center">
 
